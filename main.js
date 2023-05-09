@@ -12,6 +12,7 @@ document.querySelector('#app').innerHTML = `
       <img src="${javascriptLogo}" class="logo vanilla" alt="JavaScript logo" />
     </a>
     <h1>GITHUB ACTIONS CI/CD</h1>
+    <h2>Juan Cruz Carracedo</h2>
   </div>
 `
 
