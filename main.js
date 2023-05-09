@@ -13,6 +13,8 @@ document.querySelector('#app').innerHTML = `
     </a>
     <h1>GITHUB ACTIONS CI/CD</h1>
     <h2>Juan Cruz Carracedo</h2>
+    // crea una search bar que busque en la api de github
+    <input type="text" id="search" placeholder="Search for a user" />
   </div>
 `
 
